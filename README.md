@@ -1,2 +1,2 @@
 # Registration Form
-Freecodecamp's assignment of creating a registration form.
+Creating a registration form - Freecodecamp's assignment
